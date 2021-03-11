@@ -1,0 +1,387 @@
+12:17:46.061 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+12:18:30.179 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+12:18:39.736 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+12:18:44.206 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+12:18:44.311 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+12:18:44.464 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+12:18:44.893 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+12:18:49.330 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+12:18:51.332 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+12:18:55.277 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:18:55.304 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:18:55.504 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:18:55.522 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:18:55.939 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:18:56.191 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:18:56.447 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:18:56.496 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+12:18:56.498 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:19:00.405 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:19:00.418 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:19:00.576 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:19:00.590 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:19:00.927 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:19:01.119 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:19:01.372 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:19:01.396 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:19:02.131 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+13:20:00.530 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+13:20:04.507 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+13:20:09.223 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+13:20:09.324 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+13:20:09.435 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+13:20:09.882 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+13:20:13.977 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+13:20:15.576 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+13:20:19.327 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+13:20:19.350 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+13:20:19.556 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+13:20:19.589 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+13:20:19.931 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+13:20:20.057 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+13:20:20.319 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+13:20:20.418 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+13:20:20.430 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+13:20:24.535 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+13:20:24.553 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+13:20:24.702 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+13:20:24.723 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+13:20:25.028 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+13:20:25.154 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+13:20:25.444 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+13:20:25.476 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+13:20:26.252 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+17:09:30.596 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+17:09:34.368 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+17:09:38.910 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+17:09:39.156 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+17:09:39.310 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+17:09:39.795 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+17:09:44.334 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+17:09:46.071 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+17:09:49.815 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+17:09:49.847 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+17:09:50.020 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+17:09:50.037 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+17:09:50.376 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+17:09:50.492 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+17:09:50.740 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+17:09:50.808 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+17:09:50.812 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:09:55.334 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+17:09:55.355 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+17:09:55.509 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+17:09:55.533 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+17:09:55.851 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+17:09:56.019 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+17:09:56.255 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+17:09:56.295 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:09:57.030 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+16:48:22.146 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+16:48:28.609 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+16:48:33.250 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+16:48:33.469 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+16:48:33.635 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+16:48:34.203 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+16:48:38.812 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+16:48:40.954 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+16:48:45.013 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+16:48:45.044 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+16:48:45.265 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+16:48:45.291 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+16:48:45.731 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+16:48:45.877 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+16:48:46.224 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+16:48:46.280 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+16:48:46.285 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+16:48:51.696 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+16:48:51.733 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+16:48:52.087 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+16:48:52.108 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+16:48:52.473 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+16:48:52.642 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+16:48:52.864 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+16:48:52.893 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+16:48:53.678 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+16:57:03.786 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+16:57:07.997 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+16:57:12.625 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+16:57:12.733 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+16:57:12.831 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+16:57:13.242 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+16:57:17.389 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+16:57:18.914 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+16:57:22.499 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+16:57:22.531 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+16:57:22.759 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+16:57:22.781 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+16:57:23.157 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+16:57:23.272 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+16:57:23.524 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+16:57:23.569 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+16:57:23.572 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+16:57:27.697 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+16:57:27.713 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+16:57:27.870 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+16:57:27.889 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+16:57:28.272 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+16:57:28.390 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+16:57:28.631 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+16:57:28.674 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+16:57:29.513 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+18:34:23.086 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+18:34:27.910 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+18:34:31.785 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+18:34:31.909 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+18:34:32.092 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+18:34:32.532 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+18:34:36.752 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+18:34:39.706 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+18:34:45.647 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+18:34:45.682 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+18:34:46.004 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+18:34:46.055 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+18:34:46.585 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+18:34:46.791 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+18:34:46.986 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+18:34:47.039 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+18:34:47.043 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:34:52.108 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+18:34:52.124 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+18:34:52.275 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+18:34:52.303 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+18:34:52.694 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+18:34:52.821 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+18:34:53.059 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+18:34:53.084 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:34:53.965 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+20:08:48.052 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+20:09:00.907 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+20:09:14.417 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+20:09:14.658 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+20:09:14.825 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+20:09:15.376 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+20:09:21.730 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+20:09:25.227 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+20:09:31.951 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:09:31.990 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:09:32.370 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+20:09:32.414 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+20:09:32.928 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+20:09:33.127 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+20:09:33.329 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+20:09:33.405 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+20:09:33.430 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:09:41.140 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:09:41.155 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:09:41.368 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+20:09:41.391 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+20:09:41.837 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+20:09:42.021 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+20:09:42.207 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+20:09:42.259 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:09:43.210 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+20:18:46.140 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+20:19:11.718 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+20:19:21.255 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+20:19:21.485 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+20:19:21.730 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+20:19:22.315 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+20:19:52.885 [main] INFO  com.extraPOSTest.resources.BaseClass - inside the screenshot method for testcaseName is :selectALL_forUomCode
+20:19:53.552 [main] INFO  com.extraPOSTest.resources.BaseClass - Screen shot path C:\Users\Susmith\eclipse-workspace\ExtraPOS-AutomationTest\Screenshots\selectALL_forUomCode-2021.03.09.20.19.53.png
+20:19:56.978 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+20:20:04.669 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:20:04.725 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:20:04.840 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+20:20:04.842 [main] INFO  com.extraPOSTest.resources.BaseClass - inside the screenshot method for testcaseName is :createUomCode
+20:20:05.535 [main] INFO  com.extraPOSTest.resources.BaseClass - Screen shot path C:\Users\Susmith\eclipse-workspace\ExtraPOS-AutomationTest\Screenshots\createUomCode-2021.03.09.20.20.05.png
+20:20:05.544 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:20:12.262 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:20:12.308 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:20:12.354 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:20:12.355 [main] INFO  com.extraPOSTest.resources.BaseClass - inside the screenshot method for testcaseName is :createUomCode
+20:20:12.779 [main] INFO  com.extraPOSTest.resources.BaseClass - Screen shot path C:\Users\Susmith\eclipse-workspace\ExtraPOS-AutomationTest\Screenshots\createUomCode-2021.03.09.20.20.12.png
+20:20:13.677 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+20:51:36.710 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+20:51:57.936 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+20:52:05.017 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+20:52:05.196 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+20:52:05.329 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+20:52:05.860 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+20:52:11.021 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+20:52:13.147 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+20:52:16.951 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:52:16.971 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:52:17.151 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+20:52:17.182 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+20:52:17.501 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+20:52:17.632 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+20:52:17.881 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+20:52:17.946 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+20:52:17.950 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:52:21.869 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:52:21.893 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:52:22.055 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+20:52:22.079 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+20:52:22.413 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+20:52:22.535 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+20:52:22.760 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+20:52:22.787 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:52:23.615 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+20:55:49.714 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+20:55:59.738 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+20:56:04.235 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+20:56:04.497 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+20:56:04.656 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+20:56:05.181 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+20:56:10.045 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+20:56:11.756 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+20:56:15.709 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:56:15.730 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:56:15.939 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+20:56:15.971 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+20:56:16.331 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+20:56:16.477 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+20:56:16.739 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+20:56:16.824 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+20:56:16.826 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:56:21.307 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+20:56:21.325 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+20:56:21.492 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+20:56:21.515 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+20:56:21.824 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+20:56:21.977 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+20:56:22.204 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+20:56:22.239 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+20:56:22.967 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+20:58:11.450 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+11:38:30.936 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+11:38:34.792 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+11:38:40.739 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+11:38:41.165 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+11:38:41.425 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+11:38:42.088 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+11:38:46.730 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+11:38:48.930 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+11:38:52.581 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+11:38:52.599 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+11:38:52.873 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+11:38:52.891 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+11:38:53.239 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+11:38:53.383 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+11:38:53.595 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+11:38:53.656 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+11:38:53.658 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+11:38:59.603 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+11:38:59.617 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+11:38:59.782 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+11:38:59.796 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+11:39:00.106 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+11:39:00.264 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+11:39:00.504 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+11:39:00.541 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+11:39:01.856 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+12:17:44.733 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+12:17:48.518 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+12:17:53.239 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+12:17:53.464 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+12:17:53.679 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+12:17:54.176 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+12:17:58.157 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+12:18:00.175 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+12:18:04.676 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:18:04.692 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:18:04.914 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:18:04.938 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:18:05.251 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:18:05.386 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:18:05.583 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:18:05.640 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+12:18:05.643 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:18:10.455 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:18:10.477 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:18:10.758 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:18:10.776 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:18:11.183 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:18:11.386 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:18:11.571 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:18:11.609 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:18:12.491 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+18:10:08.935 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+18:10:12.460 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+18:10:17.151 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+18:10:17.272 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+18:10:17.420 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+18:10:17.784 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+18:10:22.162 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+18:10:24.313 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+18:10:28.080 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+18:10:28.111 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+18:10:28.305 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+18:10:28.330 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+18:10:28.698 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+18:10:28.834 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+18:10:29.096 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+18:10:29.181 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+18:10:29.184 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:10:33.544 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+18:10:33.567 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+18:10:33.728 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+18:10:33.737 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+18:10:34.037 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+18:10:34.147 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+18:10:34.373 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+18:10:34.396 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:10:35.086 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+12:27:39.752 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+12:27:44.072 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+12:27:48.448 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+12:27:48.582 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+12:27:48.706 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+12:27:49.089 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+12:27:53.335 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+12:27:55.046 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+12:27:58.644 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:27:58.662 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:27:58.874 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:27:58.896 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:27:59.206 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:27:59.345 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:27:59.595 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:27:59.670 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+12:27:59.670 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:28:03.758 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:28:03.779 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:28:03.969 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:28:03.993 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:28:04.320 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:28:04.438 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:28:04.649 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:28:04.669 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:28:05.398 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
+12:38:57.129 [main] INFO  com.extraPOSTest.resources.BaseClass - chrome driver instantiated succefully 
+12:39:02.522 [main] INFO  com.extraPOSTest.resources.BaseClass - driver has been initialized in userManagement class
+12:39:07.493 [main] INFO  com.extraPOSTest.resources.BaseClass - Login Successfully
+12:39:07.608 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Inventory
+12:39:07.712 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Manintenace
+12:39:08.147 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully UoM
+12:39:12.379 [main] INFO  com.extraPOSTest.resources.BaseClass - Size of the UomCode List -->> 16
+12:39:14.052 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM1012345678901234567890
+12:39:17.597 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:39:17.621 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:39:17.807 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:39:17.825 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:39:18.231 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:39:18.371 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:39:18.622 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:39:18.657 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+12:39:18.658 [main] INFO  com.extraPOSTest.resources.BaseClass -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:39:22.489 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the Max Length uomCode Validation
+12:39:22.513 [main] INFO  com.extraPOSTest.resources.BaseClass - There is proper validation for Max: Length Uom field
+12:39:22.661 [main] INFO  com.extraPOSTest.resources.BaseClass - Save Actions, but some errrors are present
+12:39:22.687 [main] INFO  com.extraPOSTest.resources.BaseClass - proper msg for save action(can not save)
+12:39:23.014 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully HomeButton
+12:39:23.194 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Tick
+12:39:23.439 [main] INFO  com.extraPOSTest.resources.BaseClass - Clicked succefully Uom
+12:39:23.505 [main] INFO  com.extraPOSTest.resources.BaseClass - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+12:39:24.302 [main] INFO  com.extraPOSTest.resources.BaseClass - Driver has closed
